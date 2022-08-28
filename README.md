@@ -22,7 +22,7 @@ https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&log
     <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
 </div><br/>
 
-Apaixonado por Tecnologia e programação.
+Apaixonado por Tecnologia e desenvolvimento, em constante aprendizado!
 
 ### Email e telefone para contato
 
