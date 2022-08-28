@@ -20,4 +20,11 @@ https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&log
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-</div>
+</div><br/>
+
+Apaixonado por Tecnologia e programação.
+
+### Email e telefone para contato
+
+-crizsilva@outlook.com <br/>
+-(81) 99771-4911
